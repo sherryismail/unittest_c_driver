@@ -1,9 +1,3 @@
-/*
- * ServicesMocks.h
- *
- *  Created on: Feb 6, 2020
- *      Author: Sheheera Ismail
- */
 #include "SFTypes.h"
 #include <tx_trf3720_hal.h>
 #include "Mocks/mock_tx_trf3720_hal.h"
