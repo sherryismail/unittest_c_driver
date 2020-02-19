@@ -1,9 +1,3 @@
-/*
- * unittest.cpp
- *
- *  Created on: Jan 31, 2020
- *      Author: Sheheera ismail
- */
 #include <gtest/gtest.h>
 #include <stdio.h>
 
