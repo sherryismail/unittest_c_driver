@@ -1,10 +1,3 @@
-/*
- * ServicesMocks.h
- *
- *  Created on: Feb 6, 2020
- *      Author: Sheheera Ismail
- */
-
 #ifndef HOST_LINUX_APPS_UNITTEST_MOCKMODULATOR_H_
 #define HOST_LINUX_APPS_UNITTEST_MOCKMODULATOR_H_
 
